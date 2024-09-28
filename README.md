@@ -6,7 +6,7 @@ El propósito de esta actividad es crear componentes funcionales para las págin
 
 ## Instrucciones
 
-1. Dentro de la carpeta `/page`, crea las siguientes subcarpetas y archivos:
+1. Dentro de la carpeta `/page`, crea las siguientes componentes:
 
    - En la carpeta `registro`, crea un archivo llamado `registro.jsx`.
    - En la carpeta `login`, crea un archivo llamado `Login.jsx`.
